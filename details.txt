@@ -1,0 +1,21 @@
+{
+"title":"cats",
+"description":"Such a Adorable cat ",
+"breed":"puna",
+"price":"2000"
+	
+	
+}
+
+{
+	
+"name":"Madhan Kumar",
+"age":22,
+"phoneNumber":96005855449
+
+	
+}
+http://localhost:1234/api/user/
+http://localhost:1234/api/user/1
+
+http://localhost:1234/api/user/1/post
